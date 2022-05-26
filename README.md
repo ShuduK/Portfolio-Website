@@ -40,9 +40,9 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Author1**
 - Shudufhadzo Khorombi
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ShuduK](https://github.com/ShuduK)
+- Twitter: [@KhorombiShudu](https://twitter.com/KhorombiShudu)
+- LinkedIn: [Shudufhadzo Khorombi](https://za.linkedin.com/in/shudufhadzo-khorombi-a87023134?trk=pub-pbmap)
 
 ## 🤝 Contributing
 
